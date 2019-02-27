@@ -1,4 +1,6 @@
-# WEB APP IN PYTHON WITH FLASK
+# WEB APP IN PYTHON WITH Flask
+
+In this project, I like to use Python and Flask to create a simple web application and deploy them to the cloud
 
 # API development
 
