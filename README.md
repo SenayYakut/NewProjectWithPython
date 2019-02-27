@@ -8,3 +8,13 @@
 * Will route the HTTP request to the appropriate controller, dispatch the controller
 * And will return an HTTP response. 
 * will build the APIs for the application. 
+
+
+# Technology 
+
+* HTML
+* CSS
+* Python
+* Flask
+* Google App Engine (Standard Environment)
+* Git
