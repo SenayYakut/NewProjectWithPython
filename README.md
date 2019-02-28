@@ -4,7 +4,7 @@ In this project, I like to use Python and Flask to create a simple web applicati
 
 # API development
 
-### We will write code that will take care of the server side processing
+### I will write code that will take care of the server side processing
 
 * Flask will facilitate receiving an HTTP request,
 * Will route the HTTP request to the appropriate controller, dispatch the controller
