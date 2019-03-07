@@ -21,4 +21,4 @@ In this project, I like to use Python and Flask to create a simple web applicati
 * Google App Engine (Standard Environment)
 * Git
 
-## My app can be found "https://newprojectwithpython.appspot.com"
+## My app can be seen "https://newprojectwithpython.appspot.com"
